@@ -1,0 +1,4 @@
+opencv-python>=4.8,<4.10
+# 0.10.30+ dropped the legacy mp.solutions API this project uses; pin to the last release that ships it.
+mediapipe==0.10.21
+numpy>=1.24,<2.0

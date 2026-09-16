@@ -76,14 +76,14 @@ handy_eff/
 
 ## 💻 Step 3: Open the Command Prompt in that folder
 
-1. Open your `handy_eff` folder in File Explorer
+1. Open your `Hand_Frame_FX2` folder in File Explorer
 2. Click on the address bar at the top (where the folder path is shown)
 3. Type `cmd` and press **Enter** — this opens a Command Prompt already
    pointed at your folder (no typing paths needed!)
 
 You should see a black window with something like:
 ```
-C:\Users\YourName\Desktop\handy_eff>
+C:\Users\YourName\Desktop\Hand_Frame_FX2>
 ```
 
 ---
@@ -106,7 +106,7 @@ venv\Scripts\activate
 ```
 ✅ If it worked, you'll see `(venv)` appear at the start of the line, like:
 ```
-(venv) C:\Users\YourName\Desktop\handy_eff>
+(venv) C:\Users\YourName\Desktop\Hand_Frame_FX2>
 ```
 
 > ⚠️ **Remember this:** every time you close and reopen Command Prompt to
@@ -142,7 +142,7 @@ A window should pop up showing your webcam! 🎥
   inside the shape!
 - Press **Spacebar** — switches to the next effect
 - Press **`r`** — starts/stops recording a video of what you see
-  (it saves automatically in your `handy_eff` folder)
+  (it saves automatically in your `Hand_Frame_FX2` folder)
 - Press **`l`** — shows little dots/lines tracking your hand (fun to see how it works!)
 - Press **`q`** — quits the app safely
 
